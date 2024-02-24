@@ -20,7 +20,7 @@ This portfolio showcases my skills, projects, and experiences in a clean and min
 
 ## Preview
 
-You can view a live preview of my portfolio [here](#) https://barath-ash.github.io/SIMPLE-PORTFOLIO/.
+You can view a live preview of my portfolio [here](#) https://barath-ash.github.io/SIMPLE-PORTFOLIO/
 
 
 Feel free to customize this template to better fit your specific portfolio and preferences.
