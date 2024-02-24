@@ -22,7 +22,6 @@ This portfolio showcases my skills, projects, and experiences in a clean and min
 
 You can view a live preview of my portfolio [here](#) (add the link to your live site).
 
-## Getting Started
 
 Feel free to customize this template to better fit your specific portfolio and preferences.
 
